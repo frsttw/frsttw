@@ -47,8 +47,8 @@ Building web experiences and Discord bot automations.
 | Project | Description | Technologies |
 | --- | --- | --- |
 | [Kerosene](https://github.com/frsttw/Kerosene) | Adaptive performance recovery for Windows | C# |
-| [VStube](https://github.com/frsttw/VStube) | Application for downloading videos and extracting audio | Python |
-| [Vsy Converter](https://github.com/frsttw/vsy-converter) | Image and video conversion to GIF | Python |
+| [VStube](https://github.com/frsttw/VStube) | Desktop interface for yt-dlp and FFmpeg, coordinating video downloads, audio extraction, and media conversion | Python |
+| [Vsy Converter](https://github.com/frsttw/vsy-converter) | Desktop interface for ImageMagick and FFmpeg, coordinating image conversion, GIF creation, and media cuts | Python |
 | [Vsy Codes](https://github.com/frsttw/vsy-codes) | Discord bot systems for economy, moderation, and automation | JavaScript |
 
 ## 📊 Statistics
