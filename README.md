@@ -1,22 +1,44 @@
-# Olá, eu sou João 👋
+<div align="center">
 
-Desenvolvedor focado em criar aplicações desktop para Windows, ferramentas de conversão de mídia e automações que simplificam tarefas do dia a dia.
+# frstt.dev
 
-## Sobre mim
+### Desenvolvedor Full Stack
 
-- Construo e mantenho aplicações com foco em usabilidade, desempenho e distribuição para Windows.
-- Trabalho com conversão de imagens, vídeos e áudio, além de automações e sistemas para comunidades online.
-- Gosto de transformar necessidades práticas em ferramentas claras, testáveis e fáceis de usar.
+Construindo experiências web e automações de bots para Discord.
 
-## Tecnologias
+[![Site](https://img.shields.io/badge/Site-frstt.dev-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://frstt.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-frsttw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frsttw)
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</div>
 
-## Projetos em destaque
+## 👋 Sobre mim
+
+- Desenvolvedor Full Stack com foco em aplicações web e automações para comunidades online.
+- Experiência na construção e manutenção de bots Discord com recursos de economia, moderação e automação.
+- Também desenvolvo ferramentas desktop para Windows e soluções de conversão de mídia.
+- Busco entregar projetos organizados, funcionais e fáceis de evoluir.
+
+## 🧰 Stack
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,javascript" alt="C#, Python e JavaScript" />
+</p>
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML, CSS e JavaScript" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Git, GitHub, Visual Studio Code e Visual Studio" />
+</p>
+
+## 🚀 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
@@ -25,14 +47,23 @@ Desenvolvedor focado em criar aplicações desktop para Windows, ferramentas de 
 | [Vsy Converter](https://github.com/frsttw/vsy-converter) | Conversão de imagens e vídeos para GIF | Python |
 | [Vsy Codes](https://github.com/frsttw/vsy-codes) | Sistemas de bots para Discord, economia e moderação | JavaScript |
 
-## Estatísticas
+## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=frsttw&show_icons=true&hide_border=true&theme=transparent&locale=pt-br)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=frsttw&show_icons=true&hide_border=true&title_color=a855f7&icon_color=c084fc&text_color=c4b5fd&bg_color=0d1117&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frsttw&layout=compact&hide_border=true&title_color=a855f7&text_color=c4b5fd&bg_color=0d1117&locale=pt-br" alt="Linguagens mais usadas" />
+</div>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=frsttw&layout=compact&hide_border=true&theme=transparent&locale=pt-br)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=frsttw&theme=midnight-purple&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+</div>
 
-## Contato
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frsttw&bg_color=0d1117&color=c084fc&line=a855f7&point=f5d0fe&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
+</div>
 
-- [GitHub](https://github.com/frsttw)
+<div align="center">
 
-Mais projetos e detalhes técnicos estão disponíveis nos repositórios deste perfil.
+Obrigado pela visita! Confira meus projetos no [GitHub](https://github.com/frsttw) ou acesse meu site em [frstt.dev](https://frstt.dev).
+
+</div>
