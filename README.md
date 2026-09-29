@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=180&section=header" alt="Animated purple header" />
+</p>
+
 <div align="center">
 
 # frstt.dev
