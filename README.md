@@ -22,7 +22,7 @@ Building web experiences and Discord bot automations.
 - I also develop Windows desktop tools and media conversion solutions.
 - I aim to deliver organized, functional, and maintainable projects.
 
-## 🧰 Stack
+## 🛠️ Stack
 
 ### Back-end
 
