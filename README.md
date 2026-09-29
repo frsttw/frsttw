@@ -71,3 +71,7 @@ Building web experiences and Discord bot automations.
 Thanks for visiting! Explore my projects on [GitHub](https://github.com/frsttw) or visit [frstt.dev](https://frstt.dev).
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" alt="Animated purple footer" />
+</p>
